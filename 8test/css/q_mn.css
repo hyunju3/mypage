@@ -1,0 +1,26 @@
+#q_mn {
+  position: absolute;
+  right: 20px;
+  top: 300px;
+  z-index: 9999;
+  width: 120px;
+  height: 200px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+}
+
+#q_mn ul.nav {
+  margin: 0 auto;
+  margin-top: 30px;
+  list-style: none;
+  width: 70px;
+}
+
+#q_mn ul.nav li {
+  margin-bottom: 10px;
+}
+
+#q_mn ul.nav li a {
+  color: #ccc;
+}
